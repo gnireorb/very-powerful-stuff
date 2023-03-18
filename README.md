@@ -1,5 +1,3 @@
-# Sharp tools and stuff
-
 - [Sophia-Script](https://github.com/farag2/Sophia-Script-for-Windows) - The most powerful PowerShell module on GitHub for fine-tuning Windows 10 & Windows 11.
 - [privacy.sexy](https://privacy.sexy/) -  Open-source tool to enforce privacy & security best-practices on Windows and macOS. [privacy.sexy repo](https://github.com/undergroundwires/privacy.sexy)
 - [Shell](https://github.com/moudey/Shell) - Powerful manager for Windows File Explorer context menu.
@@ -13,4 +11,4 @@
 - [ShupUp10++](https://www.oo-software.com/en/shutup10) - Free antispy tool for Windows 10 and 11.
 
 # Honorable Mentions
-[u/mkoreddit](https://www.reddit.com/user/mkoreddit/)
+- [u/mkoreddit on Reddit](https://www.reddit.com/user/mkoreddit/) - for letting me know about some really nice tools.
