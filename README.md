@@ -1,3 +1,5 @@
+# Sharp tools and stuff
+
 - [Sophia-Script](https://github.com/farag2/Sophia-Script-for-Windows) - The most powerful PowerShell module on GitHub for fine-tuning Windows 10 & Windows 11.
 - [privacy.sexy](https://privacy.sexy/) -  Open-source tool to enforce privacy & security best-practices on Windows and macOS. [privacy.sexy repo](https://github.com/undergroundwires/privacy.sexy)
 - [Shell](https://github.com/moudey/Shell) - Powerful manager for Windows File Explorer context menu.
@@ -9,3 +11,6 @@
 - [NVCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/) - to clean out NVIDIA drivers.
 - [Winaero Tweaker](https://winaero.com/winaero-tweaker/) - some extra Windows tweaks, such as restoring the old context menu.
 - [ShupUp10++](https://www.oo-software.com/en/shutup10) - Free antispy tool for Windows 10 and 11.
+
+# Honorable Mentions
+[u/mkoreddit](https://www.reddit.com/user/mkoreddit/)
