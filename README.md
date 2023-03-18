@@ -1,5 +1,6 @@
 # Fuck Windows
 
+- [privacy.sexy](https://privacy.sexy/) -  Open-source tool to enforce privacy & security best-practices on Windows and macOS. [privacy.sexy repo](https://github.com/undergroundwires/privacy.sexy)
 - [Shell](https://github.com/moudey/Shell) - Powerful manager for Windows File Explorer context menu.
 - [Everything](https://www.voidtools.com/) with [EverythingToolbar](https://github.com/srwi/EverythingToolbar) - for finding folders really quickly
 - [ueli](https://ueli.app/#/) - a keystroke launcher
