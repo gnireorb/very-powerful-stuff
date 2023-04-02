@@ -10,5 +10,13 @@
 - [Winaero Tweaker](https://winaero.com/winaero-tweaker/) - some extra Windows tweaks, such as restoring the old context menu.
 - [ShupUp10++](https://www.oo-software.com/en/shutup10) - Free antispy tool for Windows 10 and 11.
 
+# Fine things
+- [spot-dl](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
+- [ffmpeg](https://ffmpeg.org/download.html) - FFmpeg is a collection of libraries and tools to process multimedia content such as audio, video, subtitles and related metadata.
+- [Upscayl](https://github.com/upscayl/upscayl) - AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
+- [BurntSushi](https://github.com/OpenByteDev/burnt-sushi) - Spotify AdBlocker for Windows.
+- [czkawka](https://github.com/qarmin/czkawka) -  Multi functional app to find duplicates, empty folders, similar images etc. 
+
+
 # Honorable Mentions
 - [u/mkoreddit on Reddit](https://www.reddit.com/user/mkoreddit/) - for letting me know about some really nice tools.
